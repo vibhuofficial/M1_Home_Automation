@@ -1,2 +1,2 @@
 # M1_Home_Automation
-Naming Convention: "M1_HomeAutomationSystem"
+Naming Convention: "M1_PhonebookManagement"
